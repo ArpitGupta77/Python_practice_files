@@ -24,13 +24,7 @@ Created on Mon Oct  6 17:23:43 2025
 
 ################################
 
-# var_3,var_4,var_5 = 15,20,25
-
-
-# print('var_4 and var_5 < 100?', var_4<100 and var_5<100)
-# print('var_4 and var_5 < 22?', var_4<22 and var_5<22)
-# print('var_4 and var_5 < 22?', var_4<22 or var_5<22, end = '\n\n')
-
+# var_3,var_4,var_5 = 1 
 
 ################################
 
@@ -80,22 +74,22 @@ Created on Mon Oct  6 17:23:43 2025
 
 #################################
 
-word = 'summer'
+# word = 'summer'
 
-guess = input('Enter a season:>>>')
+# guess = input('Enter a season:>>>')
 
-guess = guess.lower()
+# guess = guess.lower()
 
-if guess=='summer':
-    print('Yes, it\'s summer')
-elif guess == 'winter':
-    print('No, it\'s not winter')
-elif guess == 'autumn':
-     print('No, it\'s not autumn')
-elif guess == 'spring':
-     print('No, it\'s not spring')
-else:
-    print(guess.capitalize(), 'cis not a season')
+# if guess=='summer':
+#     print('Yes, it\'s summer')
+# elif guess == 'winter':
+#     print('No, it\'s not winter')
+# elif guess == 'autumn':
+#      print('No, it\'s not autumn')
+# elif guess == 'spring':
+#      print('No, it\'s not spring')
+# else:
+#     print(guess.capitalize(), 'cis not a season')
 
 
 

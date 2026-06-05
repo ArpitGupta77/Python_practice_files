@@ -13,12 +13,12 @@ Created on Sun Oct 12 01:58:36 2025
 ###################################
 
 import random as r 
-print(r.randint(1,10))
-# print(random.randint(1,100))
+# print(r.randint(1,10))
+# print(r.randint(1,100))
 
 ######################################
 # for i in range(100):
-#     print(random.randint(1,100), end=' ')
+    # print(r.randint(1,100), end=' ')
 
 ########################################
 
